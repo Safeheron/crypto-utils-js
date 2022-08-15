@@ -1,6 +1,6 @@
 {
   "name": "@safeheron/crypto-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hex Encoder; UrlBase64 Encoder; ",
   "keywords": [
     "Hex",
@@ -32,6 +32,7 @@
   "devDependencies": {
     "@safeheron/crypto-rand": "^1.0.0",
     "@types/chai": "^4.3.1",
+    "@types/crypto-js": "^4.1.1",
     "@types/mocha": "^9.1.0",
     "assert": "^2.0.0",
     "babel-eslint": "^10.0.3",
